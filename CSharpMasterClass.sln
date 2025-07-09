@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVariables", "StringVariables\StringVariables.csproj", "{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntVariablesApp", "IntVariablesApp\IntVariablesApp.csproj", "{D9F494E7-D654-4E7A-84A3-B0778DBDF8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F494E7-D654-4E7A-84A3-B0778DBDF8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F494E7-D654-4E7A-84A3-B0778DBDF8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F494E7-D654-4E7A-84A3-B0778DBDF8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F494E7-D654-4E7A-84A3-B0778DBDF8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
