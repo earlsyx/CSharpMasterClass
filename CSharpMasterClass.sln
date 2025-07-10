@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullVariablesApp", "NullVar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeVariableApp", "DateTimeVariableApp\DateTimeVariableApp.csproj", "{CF67E42C-A790-4CC9-8047-A7BBED7C7498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateOnlyVariable", "DateOnlyVariable\DateOnlyVariable.csproj", "{897B76EB-9453-4196-A1D0-A98FD6C571E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897B76EB-9453-4196-A1D0-A98FD6C571E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897B76EB-9453-4196-A1D0-A98FD6C571E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897B76EB-9453-4196-A1D0-A98FD6C571E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897B76EB-9453-4196-A1D0-A98FD6C571E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
