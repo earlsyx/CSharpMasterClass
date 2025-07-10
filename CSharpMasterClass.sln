@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVariables", "StringVariables\StringVariables.csproj", "{C2718EBB-5CA9-4C87-88F6-FA5BF1ACFEF7}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanApp", "BooleanApp\BooleanApp.csproj", "{E9E03D05-6A70-4D74-9C55-B71AA7862A32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullVariablesApp", "NullVariablesApp\NullVariablesApp.csproj", "{B2BE2063-A516-473B-BF94-5BBD51326184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeVariableApp", "DateTimeVariableApp\DateTimeVariableApp.csproj", "{CF67E42C-A790-4CC9-8047-A7BBED7C7498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B2BE2063-A516-473B-BF94-5BBD51326184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2BE2063-A516-473B-BF94-5BBD51326184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2BE2063-A516-473B-BF94-5BBD51326184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF67E42C-A790-4CC9-8047-A7BBED7C7498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
